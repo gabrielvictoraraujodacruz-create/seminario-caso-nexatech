@@ -5,7 +5,9 @@ Design Profissional, Unidade 3 (Ética, Cidadania Digital e Direitos). UDF, 2º 
 Grupo: Gabriel, Matheus, Pedro, Daniel e Guilherme.
 Tema 3: interface e identidade visual, licença Creative Commons BY-NC-ND.
 
-Apresentação em **02/10/2026**, 20 minutos, com postura de consultoria de TI.
+// Apresentamos o projeto e estamos esperando a nota.//
+
+Nota : 
 
 ## Arquivos
 
